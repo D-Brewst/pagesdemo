@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pagesdemo/static/css/main.bef560f3.chunk.css",
+    "main.js": "/pagesdemo/static/js/main.3495090d.chunk.js",
+    "main.js.map": "/pagesdemo/static/js/main.3495090d.chunk.js.map",
+    "runtime-main.js": "/pagesdemo/static/js/runtime-main.25384594.js",
+    "runtime-main.js.map": "/pagesdemo/static/js/runtime-main.25384594.js.map",
+    "static/js/2.e334bfd9.chunk.js": "/pagesdemo/static/js/2.e334bfd9.chunk.js",
+    "static/js/2.e334bfd9.chunk.js.map": "/pagesdemo/static/js/2.e334bfd9.chunk.js.map",
+    "index.html": "/pagesdemo/index.html",
+    "static/css/main.bef560f3.chunk.css.map": "/pagesdemo/static/css/main.bef560f3.chunk.css.map",
+    "static/js/2.e334bfd9.chunk.js.LICENSE.txt": "/pagesdemo/static/js/2.e334bfd9.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/pagesdemo/static/media/calculator.bb6f4d8d.jpg",
+    "static/media/cover-image.3f4b8a47.jpg": "/pagesdemo/static/media/cover-image.3f4b8a47.jpg",
+    "static/media/led-wall.jpg": "/pagesdemo/static/media/led-wall.c905c2d1.jpg",
+    "static/media/pastel-puzzels.jpg": "/pagesdemo/static/media/pastel-puzzels.5ff0a760.jpg",
+    "static/media/run-buddy.jpg": "/pagesdemo/static/media/run-buddy.b57f2b88.jpg",
+    "static/media/surf-report.jpg": "/pagesdemo/static/media/surf-report.6490cdfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25384594.js",
+    "static/js/2.e334bfd9.chunk.js",
+    "static/css/main.bef560f3.chunk.css",
+    "static/js/main.3495090d.chunk.js"
+  ]
+}
